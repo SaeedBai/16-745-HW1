@@ -5,8 +5,8 @@ include("utils.jl")
 
 function studentinfo()
     info = Dict(
-        "name" => "Brian Jackson",
-        "Andrew ID" => "bjackso2"
+        "name" => "Saeed Bai",
+        "Andrew ID" => "dongweib"
     )
     return info
 end
